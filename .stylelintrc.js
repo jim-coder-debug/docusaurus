@@ -25,6 +25,7 @@ module.exports = {
         // :global is a CSS modules feature to escape from class name hashing
         ignorePseudoClasses: ['global'],
       },
+      
     ],
     'selector-class-pattern': null,
     'custom-property-empty-line-before': null,
